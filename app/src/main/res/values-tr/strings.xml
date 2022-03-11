@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">multipleLanguageSupport</string>
+    <string name="hello">Selam Dünya</string>
+    <string name="show_toast">tost mesajı göster</string>
+    <string name="toast">" bu bir tost mesajı"</string>
+</resources>
